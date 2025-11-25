@@ -1,0 +1,34 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Cache
+*.cache
+
+# Excel gerado pelo script
+conversas_whatsapp_*.xlsx
+
